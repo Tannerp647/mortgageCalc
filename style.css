@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(6, 208, 235);
+  font-family: Arial;
+  font-size: 20px;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.mortgage-calculator {
+  background-color: bisque;
+  border: 3px solid #444;
+  text-align: center;
+  width: 500px;
+  padding: 15px;
+  margin: auto;
+}
+input,
+button {
+  padding: 10px;
+  font-size: 15px;
+}
+
+.button {
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  line-height: 0px;
+}
+
+.monthly-payment {
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+}
+.monthly {
+  margin: auto;
+  display: inline-block;
+}
+
+.total-payment {
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+}
+.total-interest {
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+}
+.annual-payment {
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+}
