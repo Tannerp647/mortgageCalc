@@ -47,14 +47,10 @@ button {
   text-align: center;
   display: inline-block;
 }
-.monthly {
-  margin: auto;
-  display: inline-block;
-}
 
 .total-payment {
   margin: auto;
-  text-align: center;
+  text-align: center/left/right;
   display: inline-block;
 }
 .total-interest {
